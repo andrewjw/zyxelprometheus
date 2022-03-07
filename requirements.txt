@@ -2,5 +2,5 @@ paramiko==2.8.0
 pycodestyle==2.8.0
 coverage==6.0.2
 coveralls==3.2.0
-python-semantic-release==7.19.2
+python-semantic-release==7.25.2
 
